@@ -1,0 +1,16 @@
+h1{
+	color: green;
+	font-size: 200px;
+	font-family: cursive;
+	font-weight: 500;
+}
+
+.h1{
+	color: red;
+}
+
+/*this code turns the text blue*/
+#word{
+	color: blue;
+}
+
